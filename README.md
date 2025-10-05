@@ -13,7 +13,7 @@ Origine : [Factorial](https://hackropole.fr/fr/challenges/misc/fcsc2019-misc-fac
 > http://localhost
 
 #### Tentez 
-> nc factorial.cyrhades.com:4000
+> nc factorial.cyrhades.fr:4000
 
 
 -----------
